@@ -1,6 +1,6 @@
-token=NTAzNjc1ODk1ODk5MjI2MTEy.DrSQQA.kVQeJetzGlX3W5HuCjRl8I5JBn0
+token=NTAzNjc1ODk1ODk5MjI2MTEy.DsCNLQ.99SZXrc-Ys54cvVnDLdVgYGDrF4
 owner=391306171278950401
-prefix=E1
+prefix=E
 game= Eveńts.
 stayinchannel=true
 songinstatus=true

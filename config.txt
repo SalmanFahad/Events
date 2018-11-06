@@ -1,6 +1,4 @@
-token=NTAzNjc1ODk1ODk5MjI2MTEy.DsCNLQ.99SZXrc-Ys54cvVnDLdVgYGDrF4
+token=NDk3Mjg2MDczNzM1NTc3NjAw.DsM6uQ.SbmBAPIIYcKH6InP2xePzZ0Fs1w
 owner=391306171278950401
 prefix=E
 game= Eveńts.
-stayinchannel=true
-songinstatus=true

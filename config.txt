@@ -1,4 +1,4 @@
-token=NDk3Mjg2MDczNzM1NTc3NjAw.DsM6uQ.SbmBAPIIYcKH6InP2xePzZ0Fs1w
+token=NTAzNjc1ODk1ODk5MjI2MTEy.DsM8ZQ.LMo3Qa0dimlvSia_pvjtpChBs04
 owner=391306171278950401
 prefix=E
 game= Eveńts.
